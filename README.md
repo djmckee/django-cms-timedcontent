@@ -13,4 +13,4 @@ Checkout and copy the timedoffers folder to the directory containing your Django
 * Python 2.7
 
 ## Status
-Basic, but ready for use and being currently used in the real world.
+[Basic](https://s-media-cache-ak0.pinimg.com/236x/06/df/50/06df506cfd01c09b6b876f0ff00c4dbc.jpg), but ready for use and being currently used in the real world.
