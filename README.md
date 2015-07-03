@@ -11,4 +11,3 @@ Checkout and copy the timedoffers folder to the directory containing your Django
 * [Django CMS v3](http://www.django-cms.org/en/)
 * [Django 1.6](https://docs.djangoproject.com/en/1.8/releases/1.6/) with [South](https://pypi.python.org/pypi/South)
 * Python 2.7
-
