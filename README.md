@@ -1,7 +1,7 @@
 # django-cms-timedcontent
 A scheduled content plugin for Django CMS (originally intended for scheduled 'timed' offers to appear on a Django CMS site).
 
-The template is deliberatly very simple and basic, and is designed really for customisation for your use case (unless you just want really simple scheduled content for your Django CMS project).
+The template is deliberately very simple and basic, and is designed really for customisation for your use case (unless you just want really simple scheduled content for your Django CMS project).
 
 
 ## To install
